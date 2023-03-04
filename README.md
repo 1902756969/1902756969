@@ -16,7 +16,7 @@ In China, there are thousands of college students like me who are eager to make 
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=IKUN_Chatroom&show_owner=true)](https://github.com/1902756969/IKUN_Chatroom)
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=estate-management &show_owner=true)](https://github.com/1902756969/estate-management )
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=estate-management&show_owner=true)](https://github.com/1902756969/estate-management )
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=IKUN_Library&show_owner=true)](https://github.com/1902756969/IKUN_Library)
 
