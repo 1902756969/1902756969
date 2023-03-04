@@ -1,4 +1,8 @@
 
+<h1><font color='red'>中华人民共和国万岁，世界人民大团结万岁</font><h1/>
+
+<img src="https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/R-C.1i7o6brr21j4.gif" alt="R-C" style="zoom:50%;" /><img src="https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/4e4a20a4462309f7abd598a4730e0cf3d6cad6c9.3n3sfyudnuu0.gif" alt="4e4a20a4462309f7abd598a4730e0cf3d6cad6c9" style="zoom:50%;" />
+
 <img width="200%" src=https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/hr.2n0czdsstzs0.gif />
 <h2> Hello, 我是阿星✨ 英文名是 Samlin 👏🏻<h2/>
 
@@ -11,6 +15,7 @@ In China, there are thousands of college students like me who are eager to make 
 <img width="200%" src=https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/hr.2n0czdsstzs0.gif />
 <img width="200%" src=https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/hr.2n0czdsstzs0.gif />
 
+        ## ⚙️ &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1902756969&show_icons=true&theme=radical)
 
 项目预览
@@ -45,20 +50,3 @@ In China, there are thousands of college students like me who are eager to make 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
 
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
-
-
-
-
-<h1><font color='red'>中华人民共和国万岁，世界人民大团结万岁</font><h1/>
-
-
-
-<img src="https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/R-C.1i7o6brr21j4.gif" alt="R-C" style="zoom:50%;" /><img src="https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/4e4a20a4462309f7abd598a4730e0cf3d6cad6c9.3n3sfyudnuu0.gif" alt="4e4a20a4462309f7abd598a4730e0cf3d6cad6c9" style="zoom:50%;" />
-
-
-
-# 
