@@ -4,7 +4,7 @@
 <img src="https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/R-C.1i7o6brr21j4.gif" alt="R-C" style="zoom:50%;" /><img src="https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/4e4a20a4462309f7abd598a4730e0cf3d6cad6c9.3n3sfyudnuu0.gif" alt="4e4a20a4462309f7abd598a4730e0cf3d6cad6c9" style="zoom:50%;" />
 
 <img width="200%" src=https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/hr.2n0czdsstzs0.gif />
-<h2> Hello, 我是阿星✨ 英文名是 Samlin 👏🏻<h2/>
+<h2> Hello, 我是阿星✨🏻<h2/>
 
 **Preview**：
         From Guangdong, China 🏝, love coding. A student 🏫，love runnig and marathon🏃‍♂️，It's my hobby.
