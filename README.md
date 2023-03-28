@@ -21,14 +21,10 @@ In China, there are thousands of college students like me who are eager to make 
 
 项目预览
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=changgou_shop&show_owner=true)](https://github.com/1902756969/changgou_shop)[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=IKUN_Chatroom&show_owner=true)](https://github.com/1902756969/IKUN_Chatroom)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=changgou_shop&show_owner=true)](https://github.com/1902756969/changgou_shop)  [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=IKUN_Chatroom&show_owner=true)](https://github.com/1902756969/IKUN_Chatroom)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=estate-management&show_owner=true)](https://github.com/1902756969/estate-management )  [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=IKUN_Library&show_owner=true)](https://github.com/1902756969/IKUN_Library)
 
-
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=estate-management&show_owner=true)](https://github.com/1902756969/estate-management )
-
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=IKUN_Library&show_owner=true)](https://github.com/1902756969/IKUN_Library)
-
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=reggie&show_owner=true)](https://github.com/1902756969/reggie)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=reggie&show_owner=true)](https://github.com/1902756969/reggie)   [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=1902756969&repo=zhxy&show_owner=true)](https://github.com/1902756969/zhxy)
 
   
   <tr>
