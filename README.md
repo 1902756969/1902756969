@@ -14,7 +14,7 @@
 <img width="200%" src=https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/hr.2n0czdsstzs0.gif />
 <img width="200%" src=https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/hr.2n0czdsstzs0.gif />
 
-        ## ⚙️ &nbsp;GitHub Analytics
+         ⚙️ GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1902756969&show_icons=true&theme=radical)
 
 项目预览
