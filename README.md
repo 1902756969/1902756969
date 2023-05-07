@@ -7,9 +7,7 @@
 <h2> Hello, 我是阿星✨🏻<h2/>
 
 **Preview**：
-        From Guangdong, China 🏝, love coding. A student 🏫，love runnig and marathon🏃‍♂️，It's my hobby.
-
-In China, there are thousands of college students like me who are eager to make progress, but some of them give up coding because of some survival problems. I hope the stars you give me can give me the motivation to make progress continuously.👩‍💻
+        From Guangdong, China 🏝,我是啊星，很喜欢编程写代码，很喜欢这个没有上限的方向，目前在努力学习中
 
 [![img](https://camo.githubusercontent.com/f17341d1f14e1905e9ef86a3108ab64f9beb940a9ea48fcd68d8cb91ada0044f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652de58d9ae5aea22d626c7565)](https://1902756969.github.io/Hexo/)  [![img](https://camo.githubusercontent.com/6d46a09f75cd1296ac40b6403c33cc4be64e85200516b7d575ad8eddbdbd2eea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353444e2de8aebae59d9b2d633332313336)](https://blog.csdn.net/weixin_56462645?spm=1030.2200.3001.5343)
 
